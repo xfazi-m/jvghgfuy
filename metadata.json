@@ -1,0 +1,8 @@
+{
+  "name": "X_FAZI | Digital Portfolio",
+  "description": "Premium architecture of digital experiences. Professional web studio and AI mentor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
